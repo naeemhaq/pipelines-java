@@ -12,10 +12,10 @@ variables:
   azureSubscription: 'f8a00bfd-dec1-4626-8d16-6275b19036b9'
   
   # Web app name
-  webAppName: ''
+  webAppName: 'NQTechFirstAzureApp'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'NQTechFirstAzureApp'
   
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
